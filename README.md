@@ -177,19 +177,19 @@ The uses of cholan super mall in Raja Mannargudi are
 ```
 
 ## Output:
-![Output](./screenshots/map.png)
+![Output](./screenshots/out1.png)
 
-![Output](./screenshots/bus.png)
+![Output](./screenshots/out2.png)
 
-![Output](./screenshots/dhms.png)
+![Output](./screenshots/out3.png)
 
-![Output](./screenshots/post.png)
+![Output](./screenshots/out4.png)
 
-![Output](./screenshots/temple.png)
+![Output](./screenshots/out5.png)
 
-![Output](./screenshots/vk.png)
+![Output](./screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/validator.png)
+![HTML Validator](./screenshots/valid.png)
 ## Result:
 The program for implementing image map is executed successfully
